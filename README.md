@@ -6,7 +6,7 @@ Since setting up a new app every time takes way too long, this is my bare bones 
 1) Clone repository and download npm packages 
 
 ```
-git clone
+git clone https://github.com/rabeea-ahmad/mean-stack.git
 npm install
 ```
 
